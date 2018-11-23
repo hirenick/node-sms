@@ -1,0 +1,30 @@
+{
+  "name": "puretext",
+  "version": "0.1.4",
+  "description": "Use PureText.us API to send and receive texts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsatija/node-sms.git"
+  },
+  "author": "PureText <support@puretext.us> (http://www.puretext.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsatija/node-sms/issues"
+  },
+  "homepage": "https://github.com/nsatija/node-sms#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "npm send text",
+    "npm send sms",
+    "puretext api",
+    "text messaging api node.js"
+  ]
+}
